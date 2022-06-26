@@ -26,7 +26,7 @@ def query_google(question):
         "hl": "en",
         "gl": "us",
         "google_domain": "google.com",
-        "api_key": "04ac655e99ab782b7b56428c82b8411b427b863af08956df9c9c221d4c305a37"
+        "api_key": "****************************" #it charges me money if I exceed a limit sorry :/
     }
 
     list_search = GoogleSearch(list_params)
